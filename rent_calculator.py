@@ -1,6 +1,6 @@
 ##Total food ordered for snacking
 #Electricity units spend
-#Charge per unit
+#Charge per_unit
 #Person living in room/ flat
 
 ##Output
